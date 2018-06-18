@@ -4,10 +4,10 @@ A repository for sharing code and additional data involved in the analysis for t
 
 ## Data Access
 
-Notice: We've been attempting to get our data through NCBI for well over a month. Ideally, all genomes and raw reads will appear at the BioProject page within a couple of weeks:
+All genomes and raw reads will appear at the BioProject page within a couple of weeks:
 https://www.ncbi.nlm.nih.gov/bioproject/PRJNA449266
 
-The SRA files for the metagenome are available through the BioProject page. Right now, the SRA files for the metatranscriptomic reads are not linked, but are available through individual BioSamples listed in the `metatranscriptome_ncbi_biosamples.txt`. The genomes are not completely processed yet, but their accession numbers are listed in the file `genome_accessions.txt`. They are also available through ggkbase, with only slightly different scaffolds (we are a bit more stringent in what contigs become a scaffold in what we submit to NCBI):
+Right now, the SRA files for the metatranscriptomic reads are not linked, but are available through individual BioSamples listed in the `metatranscriptome_ncbi_biosamples.txt`. Genomes are also available through ggkbase, with only slightly different scaffolds (we are a bit more stringent in what contigs become a scaffold in what we submit to NCBI):
 https://ggkbase.berkeley.edu/angelo2014/organisms
 
 ## Additional Data
